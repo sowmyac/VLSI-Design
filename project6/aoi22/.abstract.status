@@ -1,0 +1,7 @@
+cUiMoveCellToBin {aoi22} {Ignore}
+cUiSetViewStatus {aoi22} {layout} {1}
+cUiSetViewStatus {aoi22} {schematic} {1}
+cUiSetViewStatus {aoi22} {abstract.pin} {9}
+cUiSetViewStatus {aoi22} {abstract.ext} {9}
+cUiSetViewStatus {aoi22} {abstract} {9}
+cUiSetViewStatus {aoi22} {abstract.ver} {0}

@@ -1,0 +1,7 @@
+cUiSelectCellP {oai3222new}
+cUiSetViewStatus {oai3222new} {layout} {1}
+cUiSetViewStatus {oai3222new} {schematic} {1}
+cUiSetViewStatus {oai3222new} {abstract.pin} {3}
+cUiSetViewStatus {oai3222new} {abstract.ext} {1}
+cUiSetViewStatus {oai3222new} {abstract} {1}
+cUiSetViewStatus {oai3222new} {abstract.ver} {0}

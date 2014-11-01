@@ -1,0 +1,17 @@
+cUiAddMessageView {oai3222new} {abstract.pin} {514} {(ABS-514): Cell oai3222new: prBoundary successfully created.}
+cUiAddMessageView {oai3222new} {abstract.pin} {515} {(ABS-515): Cell oai3222new: prBoundary does not enclose all cell view geometry. Specify any missing layers in the Using geometry on layers field.}
+cUiAddMessageView {oai3222new} {abstract.pin} {501} {(ABS-501): Cell oai3222new: 12 existing terminals, no pins will be added}
+cUiAddMessageView {oai3222new} {abstract.ext} {602} {(ABS-602): Cell oai3222new: extracting 12 nets}
+cUiAddMessageView {oai3222new} {abstract.ext} {604} {(ABS-604): Cell oai3222new: extracting net h, 1 of 12}
+cUiAddMessageView {oai3222new} {abstract.ext} {604} {(ABS-604): Cell oai3222new: extracting net i, 2 of 12}
+cUiAddMessageView {oai3222new} {abstract.ext} {604} {(ABS-604): Cell oai3222new: extracting net out, 3 of 12}
+cUiAddMessageView {oai3222new} {abstract.ext} {604} {(ABS-604): Cell oai3222new: extracting net g, 4 of 12}
+cUiAddMessageView {oai3222new} {abstract.ext} {604} {(ABS-604): Cell oai3222new: extracting net f, 5 of 12}
+cUiAddMessageView {oai3222new} {abstract.ext} {604} {(ABS-604): Cell oai3222new: extracting net a, 6 of 12}
+cUiAddMessageView {oai3222new} {abstract.ext} {604} {(ABS-604): Cell oai3222new: extracting net b, 7 of 12}
+cUiAddMessageView {oai3222new} {abstract.ext} {604} {(ABS-604): Cell oai3222new: extracting net c, 8 of 12}
+cUiAddMessageView {oai3222new} {abstract.ext} {604} {(ABS-604): Cell oai3222new: extracting net e, 9 of 12}
+cUiAddMessageView {oai3222new} {abstract.ext} {604} {(ABS-604): Cell oai3222new: extracting net d, 10 of 12}
+cUiAddMessageView {oai3222new} {abstract.ext} {604} {(ABS-604): Cell oai3222new: extracting net vdd!, 11 of 12}
+cUiAddMessageView {oai3222new} {abstract.ext} {604} {(ABS-604): Cell oai3222new: extracting net gnd!, 12 of 12}
+cUiAddMessageView {oai3222new} {abstract} {914} {(ABS-914): Cell oai3222new: predefined site core will be used}
