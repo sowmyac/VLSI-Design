@@ -10,5 +10,8 @@
 3) Design Simulation - Hspice by Synopsys 
 	Refer to "Hspice Codes"
 	
-4) Overall project description 
+4) Standard Cell Library
+	Refer to "allcells.lib"
+	
+5) Overall project description 
 	Refer to "Project final report.pdf" 
